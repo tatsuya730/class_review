@@ -54,3 +54,4 @@ print(ieyasu.entry_fee())
 print(ieyasu.info_csv())
 print(ieyasu.info_csv2())
 print(ieyasu.info_csv3())
+a
